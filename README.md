@@ -1,5 +1,6 @@
 Java Program
-JDK, JV, JRE
-Data Types, ,Variables
-Literals, Keywords
-Identifiers, Operators
+
+1. JDK, JV, JRE
+2. Data Types, Variables
+3. Literals, Keywords
+4. Identifiers, Operators
